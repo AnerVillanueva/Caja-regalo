@@ -1,0 +1,21 @@
+.img__container{
+    margin-top: -200px;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.cta{
+    margin-top: -470px;
+    display: flex;
+    justify-content: center;
+}
+
+/* === SMALL DEVICES === */
+@media screen and (max-width: 600px) {
+    .cta{
+        margin-top: -20px;
+        margin-bottom: -20px;
+        display: flex;
+        justify-content: center;
+    }
+}
