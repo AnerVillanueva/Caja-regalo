@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Caja-Regalo/index.html/static/css/main.5b1d23c2.css",
-    "main.js": "/Caja-Regalo/index.html/static/js/main.331cc634.js",
-    "static/media/vino1.jpg": "/Caja-Regalo/index.html/static/media/vino1.ca591e92a5498737f5ca.jpg",
-    "static/media/cata.png": "/Caja-Regalo/index.html/static/media/cata.9a9773fd45b65bbb98d4.png",
-    "static/media/cata.pdf": "/Caja-Regalo/index.html/static/media/cata.eb143767b31748ad05a4.pdf",
-    "static/media/caja-regalo.jpg": "/Caja-Regalo/index.html/static/media/caja-regalo.3ee4a89a9d05644aad61.jpg",
-    "index.html": "/Caja-Regalo/index.html/index.html",
-    "main.5b1d23c2.css.map": "/Caja-Regalo/index.html/static/css/main.5b1d23c2.css.map",
-    "main.331cc634.js.map": "/Caja-Regalo/index.html/static/js/main.331cc634.js.map"
+    "main.css": "/Caja-Regalo/static/css/main.997a0196.css",
+    "main.js": "/Caja-Regalo/static/js/main.421406d0.js",
+    "static/media/vino1.jpg": "/Caja-Regalo/static/media/vino1.ca591e92a5498737f5ca.jpg",
+    "static/media/cata.png": "/Caja-Regalo/static/media/cata.9a9773fd45b65bbb98d4.png",
+    "static/media/cata.pdf": "/Caja-Regalo/static/media/cata.eb143767b31748ad05a4.pdf",
+    "static/media/caja-regalo.jpg": "/Caja-Regalo/static/media/caja-regalo.3ee4a89a9d05644aad61.jpg",
+    "index.html": "/Caja-Regalo/index.html",
+    "main.997a0196.css.map": "/Caja-Regalo/static/css/main.997a0196.css.map",
+    "main.421406d0.js.map": "/Caja-Regalo/static/js/main.421406d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b1d23c2.css",
-    "static/js/main.331cc634.js"
+    "static/css/main.997a0196.css",
+    "static/js/main.421406d0.js"
   ]
 }
